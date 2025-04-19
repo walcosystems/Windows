@@ -5,8 +5,7 @@ Prefix item with # to mark it for removal
 #Microsoft.BingWeather
 #Microsoft.BingNews
 #Microsoft.GetHelp
-#Microsoft.Getstarted
-#Microsoft.GetStarted_8wekyb3d8bbwe
+#Microsoft.GetStarted
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.Office.OneNote
 #Microsoft.MicrosoftSolitaireCollection
