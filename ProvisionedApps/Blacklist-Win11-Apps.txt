@@ -28,7 +28,7 @@ Prefix item with # to mark it for removal
 #Microsoft.YourPhone
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
-#Microsoft.OutlookForWindows
+Microsoft.OutlookForWindows
 Microsoft.DesktopAppInstaller
 Microsoft.HEIFImageExtension
 Microsoft.Microsoft3DViewer
